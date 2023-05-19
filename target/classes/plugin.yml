@@ -1,0 +1,4 @@
+name: JLMessage
+version: '1.0-SNAPSHOT'
+main: me.bigbananaturtle.jlmessage.JLMessage
+api-version: 1.19

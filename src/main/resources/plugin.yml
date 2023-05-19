@@ -1,0 +1,4 @@
+name: JLMessage
+version: '${project.version}'
+main: me.bigbananaturtle.jlmessage.JLMessage
+api-version: 1.19
